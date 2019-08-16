@@ -47,8 +47,6 @@ $avatarfull = $xml->groupDetails->avatarFull;
 $groupname = $xml->groupDetails->groupName;
 $members = $xml->groupDetails->memberCount;
 
-echo "$members members in $groupname"; // ECHO MEMBERS AND GROUP NAME
-
 ?>
 ```
 
