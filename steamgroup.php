@@ -1,7 +1,7 @@
 <?php
 
 $curl = true; // Use this if your hosting provider doesn't have allow_url_fopen enabled.
-$steamgroup = "TEST"; // Custom Grupo URL
+$steamgroup = "TEST"; // Custom Group URL
 
 $url = "https://steamcommunity.com/groups/" . $steamgroup . "/memberslistxml/?xml=1";
 
