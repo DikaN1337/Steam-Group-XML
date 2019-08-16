@@ -1,4 +1,4 @@
-# Steam Group Member Counter
+# Steam Group XML
 
 [EN]:
 This script displays your Member Counter as well as Avatar & Group name.
@@ -15,7 +15,7 @@ Se és expriente em PHP e XML poderes obter outras informações usando este scr
 - allow_url_fopen enabled or Curl installed.
 
 # Script
-members.php
+steamgroup.php
 ```php
 <?php
 
