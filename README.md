@@ -1,11 +1,13 @@
 # Steam Group XML
 
 [EN]:
+
 This script displays your Member Counter as well as Avatar & Group name.
 
 If you are experienced on PHP and XML you can get other information using this script.
 
 [PT]:
+
 Este script mostra o Contador de Membros tal como o Avatar e o Nome do Grupo.
 
 Se és expriente em PHP e XML poderes obter outras informações usando este script.
